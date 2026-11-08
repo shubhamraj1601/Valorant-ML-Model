@@ -4,7 +4,7 @@ Predicting a Valorant player's competitive rank from their in-game stats, using 
 with a Streamlit app to try the trained models on test data.
 
 - **GitHub:** https://github.com/shubhamraj1601/Valorant-ML-Model
-- **Live app:** _add the Streamlit Cloud link here after deploying_
+- **Live app:** https://valorant-ml-model-p84wtaa4ahawb3pcigejdx.streamlit.app/
 
 ## a. Problem statement
 
